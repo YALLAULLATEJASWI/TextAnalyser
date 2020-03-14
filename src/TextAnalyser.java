@@ -5,6 +5,7 @@ public class TextAnalyser {
     TextAnalyser(int separator) {
         separator_ = separator;
     }
+    
 
     private void initialise() {
         int separator = 0;
